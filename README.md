@@ -1,1 +1,4 @@
-This is just my college exercises :)
+Indentificação para o trabalho "PCMania"
+Nome: João Pedro Escobar
+Curso: GES
+Matricula: 521
