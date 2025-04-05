@@ -11,9 +11,9 @@ public class PCMania {
         Scanner scanner = new Scanner(System.in);
 
         // Criando os computadores conforme especificação
-        Computador promo1 = new Computador("Apple", 6199, new HardwareBasico("Pentium Core i3", 2200F), new SistemaOperacional("Linux Ubuntu", 32));
+        Computador promo1 = new Computador("Apple", 521, new HardwareBasico("Pentium Core i3", 2200F), new SistemaOperacional("Linux Ubuntu", 32));
         Computador promo2 = new Computador("Samsung", 1755, new HardwareBasico("Pentium Core i5", 3370F), new SistemaOperacional("Windows", 64));
-        Computador promo3 = new Computador("Dell", 5678, new HardwareBasico("Pentium Core i7", 4500F), new SistemaOperacional("Windows 10", 64));
+        Computador promo3 = new Computador("Dell", 6199, new HardwareBasico("Pentium Core i7", 4500F), new SistemaOperacional("Windows 10", 64));
 
         // Adicionando memória USB aos computadores
         promo1.addMemoriaUSB(new MemoriaUSB("Pen-drive", 16));
